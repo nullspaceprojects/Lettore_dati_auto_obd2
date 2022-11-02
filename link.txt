@@ -8,3 +8,5 @@ HC-05 bluetooth : https://www.amazon.it/AZDelivery-ricetrasmettitore-wireless-Bl
 link wikipedia PIDs obd2 : https://en.wikipedia.org/wiki/OBD-II_PIDs
 
 link PIDs supportati : https://github.com/PowerBroker2/ELMduino
+
+link video : https://youtu.be/3SIbr61jilE
